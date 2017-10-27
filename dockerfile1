@@ -1,4 +1,3 @@
 FROM centos
+MAINTAINER ramveer.vm@gmail.com
 RUN yum install apache2 -y
-
-
